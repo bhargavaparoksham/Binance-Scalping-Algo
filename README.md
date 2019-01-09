@@ -4,4 +4,4 @@ Binance Scalping Algo
 Based on Python-Binace Library.
 Link: https://python-binance.readthedocs.io/en/latest/
 
-Note: #Note: This code doesn't include live trading functions, only for backtesting.
+#Note: This code doesn't include live trading functions, only for backtesting.
